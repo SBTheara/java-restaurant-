@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="libraryReport">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/commons-collections-3.2 copy.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/commons-digester-2 copy.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/RSFoto_v1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/groovy-all-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/jasperreports-5.6.0 copy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/jasperreports-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/RSDate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/RSCalendar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/commons-logging-1 copy.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/KControls-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/commons-beanutils-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/groovy-all-2.0 copy.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/commons-beanutils-1.8.2 copy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/mysql-connector-j-8.0.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraryReport/libraryReport/lombok-1.18.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
